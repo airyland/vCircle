@@ -1,0 +1,26 @@
+{
+  "family": "moe",
+  "name": "vCircle",
+  "version": "0.0.1",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/lizheng/vCircle",
+  "author": "",
+  "maintainers": [
+    ""
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lizheng/vCircle.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["vCircle.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
